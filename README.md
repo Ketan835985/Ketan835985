@@ -1,6 +1,7 @@
 ![logo]()
 <h1 align="center">Hi 👋, I'm Ketan Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
+<img align="right" width="400"  src="https://media.tenor.com/A3qaVncurssAAAAd/kroppa-g%C4%B1f.gif" alt="">
 # 💫 About Me:
 <br>- 🌱 I’m currently learning **Express , Node.js**<br><br>- 📫 How to reach me **guptaketan6375@gmail.com**<br><br>- ⚡ Fun fact **I love travelling ❤️❤️❤️😘**<br>
 
