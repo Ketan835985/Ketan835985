@@ -1,4 +1,4 @@
-![image.png](https://i.postimg.cc/TYxFktDM/image.png)](https://postimg.cc/7bBKhM9m)
+![image.png](https://i.postimg.cc/TYxFktDM/image.png)]
 <h1 align="center">Hi 👋, I'm Ketan Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" width="400"  src="https://media.tenor.com/A3qaVncurssAAAAd/kroppa-g%C4%B1f.gif" alt="">
