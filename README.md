@@ -1,7 +1,7 @@
 ![image.png](https://i.postimg.cc/TYxFktDM/image.png)
 <h1 align="center">Hi 👋, I'm Ketan Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
-<img align="right" width="400"  src="https://media.tenor.com/A3qaVncurssAAAAd/kroppa-g%C4%B1f.gif" alt="">
+<a align = "right" href="https://app.daily.dev/ketan835985"><img src="https://api.daily.dev/devcards/3b2899b22a5842509f6b0b7a956c1e33.png?r=11z" width="400" alt="KETAN GUPTA's Dev Card"/></a>
 # 💫 About Me:
 <br>- 🌱 I’m currently learning **Express , Node.js**<br><br>- 📫 How to reach me **guptaketan6375@gmail.com**<br><br>- ⚡ Fun fact **I love travelling ❤️❤️❤️😘**<br>
 
