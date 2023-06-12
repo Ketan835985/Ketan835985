@@ -4,6 +4,7 @@
 
 # 💫 About Me:
 <br>- 🌱 I’m currently learning **Express , Node.js**<br><br>- 📫 How to reach me **guptaketan6375@gmail.com**<br><br>- ⚡ Fun fact **I love travelling ❤️❤️❤️😘**<br>
+<a href="https://app.daily.dev/ketan835985"><img src="https://api.daily.dev/devcards/3b2899b22a5842509f6b0b7a956c1e33.png" width="400"  align = "right"/></a>
 
 
 ## 🌐 Socials:
@@ -16,12 +17,13 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ketan835985&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ketan835985&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Ketan835985&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<a align = "right" href="https://app.daily.dev/ketan835985"><img src="https://api.daily.dev/devcards/3b2899b22a5842509f6b0b7a956c1e33.png?r=11z" width="400" alt="KETAN GUPTA's Dev Card"/></a>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
