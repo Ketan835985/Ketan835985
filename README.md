@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 # 💫 About Me:
-<br>- 🧑🏻‍💻 Currently i am working on Shopping Cart Project <br>- 🌱 I’m currently learning **Express , Node.js, MongoDB, AWS**<br><br>- 📫 How to reach me **guptaketan6375@gmail.com**<br><br>- ⚡ Fun fact **I love travelling ❤️❤️❤️😘**<br>
+<br>- 🧑🏻‍💻 Currently i am working on Shopping Cart Project <br><br>- 🌱 I’m currently learning **Express , Node.js, MongoDB, AWS**<br><br>- 📫 How to reach me **guptaketan6375@gmail.com**<br><br>- ⚡ Fun fact **I love travelling ❤️❤️❤️😘**<br>
 <a href="https://app.daily.dev/ketan835985"><img src="https://api.daily.dev/devcards/3b2899b22a5842509f6b0b7a956c1e33.png" width="400"  align = "right"/></a>
 
 
