@@ -1,4 +1,4 @@
-[![image.png](https://i.postimg.cc/Fs6Jhh0P/image.png)]
+![image.png](https://i.postimg.cc/Fs6Jhh0P/image.png)
 <h1 align="center">Hi 👋, I'm Ketan Gupta</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
